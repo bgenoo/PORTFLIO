@@ -1,0 +1,19 @@
+img#foto {
+    border-radius: 50%;
+    width: 300px;
+    border: 2px solid rgb(0, 0, 0);
+
+
+}
+
+header {
+    font-size: 18px;
+    display: flex;
+    background-color: brown;
+    text-align: center;
+}
+
+body#ap {
+    align-items: center;
+    justify-content: center;
+}
