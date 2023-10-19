@@ -9,6 +9,11 @@ img#foto {
   padding: 5px;
 }
 
+media (max-width: 300px) {
+  img#foto {
+    flex-direction: column;
+  }
+}
 header {
   font-size: 18px;
   display: flex;
