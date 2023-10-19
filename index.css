@@ -1,19 +1,42 @@
+* {
+  color: #c7c7c7;
+}
+
 img#foto {
-    border-radius: 50%;
-    width: 300px;
-    border: 2px solid rgb(0, 0, 0);
-
-
+  border-radius: 80%;
+  width: 300px;
+  border: 2px solid rgb(222, 222, 222);
+  padding: 5px;
 }
 
 header {
-    font-size: 18px;
-    display: flex;
-    background-color: brown;
-    text-align: center;
+  font-size: 18px;
+  display: flex;
+  text-align: center;
 }
 
 body#ap {
-    align-items: center;
-    justify-content: center;
+  display: flex;
+}
+
+html {
+  background-color: black;
+  font-style: ;
+}
+
+body div#container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #3b3b3b;
+}
+
+#lista {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h2#contatos {
+  display: flex;
+  justify-content: center;
 }
