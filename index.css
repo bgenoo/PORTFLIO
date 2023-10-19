@@ -11,7 +11,8 @@ img#foto {
 
 media (max-width: 300px) {
   img#foto {
-    flex-direction: column;
+    width: 200px;
+    height: 150px;
   }
 }
 header {
